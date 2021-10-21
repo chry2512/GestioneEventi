@@ -1,2 +1,2 @@
 # GestioneEventi
-Christian-Niro-be0421-S6GestioneEventi
+Jpa e Hibernate , creazione e interrogazione di un Database tramite Hibernate
